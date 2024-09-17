@@ -6,8 +6,10 @@ export default function Features() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">The majority our customers do not understand their Debts.</h2>
-            <p className="text-xl text-gray-400">We've developed a suite of innovative products designed to help you tackle debt head-on, giving you the tools and support you need to achieve financial freedom.</p>
+            <h2 className="h2 mb-4">Empowering Fintech Innovation Through Incubation</h2>
+            <p className="text-xl text-gray-400">At our Venture Studio, we are dedicated to pioneering a transformative pathway for launching innovative Fintech startups. Our seasoned team of fintech operators embodies the founder's mindset, believing that the best ideas emerge at the intersection of Finance, Technology, and SaaS.
+            Each year, we incubate new companies, originating ideas, assembling exceptional teams, providing initial funding, and maintaining integral leadership throughout each company's lifecycle. Our founders become part of our family, often collaborating with us on future ventures.</p>
+            <h2 className="h2 mt-8">Our execution philosophy</h2>
           </div>
 
           {/* Items */}
@@ -20,8 +22,8 @@ export default function Features() {
                 <path className="stroke-current text-purple-100" d="M30 39.313l-4.18 2.197L27 34.628l-5-4.874 6.91-1.004L32 22.49l3.09 6.26L42 29.754l-3 2.924" strokeLinecap="square" strokeWidth="2" fill="none" fillRule="evenodd" />
                 <path className="stroke-current text-purple-300" d="M43 42h-9M43 37h-9" strokeLinecap="square" strokeWidth="2" />
               </svg>
-              <h4 className="h4 mb-2">Debt Consolidation</h4>
-              <p className="text-lg text-gray-400 text-center">Simplify your finances by combining multiple debts into a single, manageable payment.</p>
+              <h4 className="h4 mb-2">Day Zero Involvement</h4>
+              <p className="text-lg text-gray-400 text-center">From the outset, we are deeply engaged—generating ideas, developing them, and acquiring early customers.</p>
             </div>
 
             {/* 2nd item */}
@@ -31,8 +33,8 @@ export default function Features() {
                 <path className="stroke-current text-purple-100" strokeWidth="2" strokeLinecap="square" d="M21 23h22v18H21z" fill="none" fillRule="evenodd" />
                 <path className="stroke-current text-purple-300" d="M26 28h12M26 32h12M26 36h5" strokeWidth="2" strokeLinecap="square" />
               </svg>
-              <h4 className="h4 mb-2">Personalized Repayment</h4>
-              <p className="text-lg text-gray-400 text-center">We understand that every financial situation is unique.</p>
+              <h4 className="h4 mb-2">Hands-On Collaboration</h4>
+              <p className="text-lg text-gray-400 text-center">Our team collaborates closely with startups, leveraging our expertise in product development, engineering, marketing, sales, and operations to accelerate time-to-market.</p>
             </div>
 
             {/* 3rd item */}
@@ -45,8 +47,8 @@ export default function Features() {
                   <circle className="stroke-current text-purple-100" cx="11" cy="11" r="11" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Credit Monitoring</h4>
-              <p className="text-lg text-gray-400 text-center">Stay informed about your credit health with our real-time credit score monitoring.</p>
+              <h4 className="h4 mb-2">Co-Funder Support</h4>
+              <p className="text-lg text-gray-400 text-center">For the first *12-18 months*, we work hand-in-hand with founders to transform their concepts into fully-fledged companies.</p>
             </div>
 
             {/* 4th item */}
@@ -58,8 +60,8 @@ export default function Features() {
                   <circle className="stroke-current text-purple-300" cx="13" cy="9" r="3" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Payment Reminders</h4>
-              <p className="text-lg text-gray-400 text-center">Never miss a payment again. Our automated payment reminders ensure you stay on track with your repayment schedule.</p>
+              <h4 className="h4 mb-2">Growth & Independence</h4>
+              <p className="text-lg text-gray-400 text-center">After *18-24 months*, our portfolio companies achieve operational and financial independence from our studio, bypassing traditional angel and pre-seed funding rounds.</p>
             </div>
 
             {/* 5th item */}
@@ -71,8 +73,8 @@ export default function Features() {
                   <path className="stroke-current text-purple-300" d="M22 30h4v12h-4z" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Debt Reduction </h4>
-              <p className="text-lg text-gray-400 text-center">Our expert advisors work with you to develop effective debt reduction strategies.</p>
+              <h4 className="h4 mb-2">Ecosystem Development</h4>
+              <p className="text-lg text-gray-400 text-center">Rather than a solitary entrepreneur launching a venture, our studio fosters a collaborative environment where experienced founders and professionals come together to ideate, validate, and launch multiple startups.</p>
             </div>
 
             {/* 6th item */}
@@ -85,8 +87,8 @@ export default function Features() {
                   <path className="stroke-current text-purple-100" d="M8.86 1.18C3.8 1.988 0 5.6 0 10c0 5 4.9 9 11 9a10.55 10.55 0 003.1-.4L20 21l-.6-5.2a9.125 9.125 0 001.991-2.948" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Financial Education</h4>
-              <p className="text-lg text-gray-400 text-center">Empower yourself with knowledge. Our comprehensive library of financial education resources provides you with the tools and information needed to make informed financial decisions.</p>
+              <h4 className="h4 mb-2 text-center">Collaborative Fintech Ventures for Growth</h4>
+              <p className="text-lg text-gray-400 text-center">Our studio fosters collaboration, empowering founders and professionals to launch fintech ventures, achieving growth and independence within 18-24 months.</p>
             </div>
 
           </div>
