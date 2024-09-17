@@ -20,14 +20,14 @@ export default function Footer() {
                   </svg>
                 </Link>
               </div>
-              <div className="text-gray-400"> Empowering your financial future with innovative debt management solutions. Connect with us on social media for the latest updates and financial tips.</div>
+              <div className="text-gray-400"> By focusing exclusively on Fintechs & Financial Services operating within the SaaS landscape, we are committed to building a robust ecosystem that not only supports individual startups but also contributes to the evolution of the financial services industry across the globe.</div>
             </div>
 
             {/* 2nd, 3rd and 4th blocks */}
             <div className="md:col-span-8 lg:col-span-7 grid sm:grid-cols-3 gap-8">
 
               {/* 2nd block */}
-              <div className="text-sm">
+              {/* <div className="text-sm">
                 <h6 className="text-gray-200 font-medium mb-1">Products</h6>
                 <ul>
                   <li className="mb-1">
@@ -41,7 +41,7 @@ export default function Footer() {
                     <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Debt Reduction Strategies</Link>
                   </li>
                 </ul>
-              </div>
+              </div> */}
 
               {/* 3rd block */}
               {/* <div className="text-sm">
