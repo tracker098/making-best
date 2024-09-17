@@ -6,7 +6,7 @@ export default function Features() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">Empowering Fintech Innovation Through Incubation</h2>
+            <h2 className="h2 mb-4">Empowering Fintech Innovation through Incubation</h2>
             <p className="text-xl text-gray-400">At our Venture Studio, we are dedicated to pioneering a transformative pathway for launching innovative Fintech startups. Our seasoned team of fintech operators embodies the founder's mindset, believing that the best ideas emerge at the intersection of Finance, Technology, and SaaS.
             Each year, we incubate new companies, originating ideas, assembling exceptional teams, providing initial funding, and maintaining integral leadership throughout each company's lifecycle. Our founders become part of our family, often collaborating with us on future ventures.</p>
             <h2 className="h2 mt-8">Our execution philosophy</h2>
